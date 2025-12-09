@@ -9,8 +9,8 @@
 
 1. Clone the repository
 ```
-git clone https://github.com/akrossu/Aurelient.git
-cd aurelient
+git clone https://github.com/akrossu/salc-wb.git
+cd salc-wb
 ```
 
 2. Extract the contents of the Sony_IMX135 folder into the root folder of the project
