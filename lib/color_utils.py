@@ -1,5 +1,4 @@
 import numpy as np
-import cv2
 
 # needed for jpg images
 def srgb_to_linear(img):
