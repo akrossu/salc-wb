@@ -3,3 +3,19 @@
 
 <h1 align="center">Spatially-Adaptive Log-Chroma White Balance</h1>
 
+*A Spatially-Adaptive Log-Chroma White Balance (SALC-WB) algorithm on raw images.  Traditional methods, such as Gray World and Shades-of-Gray, compute global statistical estimations that often fail in locally varied lighting. This pipeline combines local statistical estimation in log-chroma space with a Shades-of-Gray prior. Unlike existing methods that require training or complex optimizations, is a simple and efficient AWB algorithm that recovers accurate luminance and reduces local artifacts.*
+
+## How to run
+
+1. Clone the repository
+```
+git clone https://github.com/akrossu/Aurelient.git
+cd aurelient
+```
+
+2. Create a [virtual python environment](https://docs.python.org/3/library/venv.html)
+
+3. Install the required libraries using `pip install -r requirements.txt`
+
+4. Run `salc-wb.py`
+> Note: debug is default enabled, but can be set to false
