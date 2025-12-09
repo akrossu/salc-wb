@@ -13,9 +13,25 @@ git clone https://github.com/akrossu/Aurelient.git
 cd aurelient
 ```
 
-2. Create a [virtual python environment](https://docs.python.org/3/library/venv.html)
+2. Extract the contents of the Sony_IMX135 folder into the root folder of the project
+```
+.
+├── Sony_IMX135/
+|   ├── field_3_cameras/
+|   ├── lab_printouts/
+|   └── lab_realscene
+├── lib/
+├── Paper/
+├── Presentation/
+├── README.md
+├── requirements.txt
+├── salc-wb.py
+└── tests.py
+```
 
-3. Install the required libraries using `pip install -r requirements.txt`
+4. Create a [virtual python environment](https://docs.python.org/3/library/venv.html)
 
-4. Run `salc-wb.py`
+5. Install the required libraries using `pip install -r requirements.txt`
+
+6. Run `salc-wb.py`
 > Note: debug is default enabled, but can be set to false
