@@ -13,7 +13,7 @@ git clone https://github.com/akrossu/salc-wb.git
 cd salc-wb
 ```
 
-2. Extract the contents of the Sony_IMX135 folder into the root folder of the project
+2. [Download](https://download.fairdata.fi/download?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NjU1MDM0NjYsImRhdGFzZXQiOiJmMDU3MGEzZi0zZDc3LTRmNDQtOWVmMS05OWFiNDg3OGYxN2MiLCJmaWxlIjoiL1NvbnlfSU1YMTM1LnppcCIsInByb2plY3QiOiIyMDAwNDY0IiwicmFuZG9tX3NhbHQiOiI3Yzc0ZDU5OCJ9.j_xNXfEMoCS7HQ_SUoMpMiqIeOrt2JBW1KS_jqtHPYk) and Extract the contents of the Sony_IMX135 folder into the root folder of the project
 ```
 .
 ├── Sony_IMX135/
